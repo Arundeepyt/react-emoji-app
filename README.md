@@ -1,10 +1,5 @@
 
 
-
----
-
-
-
 # Emoji Dictionary App
 
 A fun React project that displays a list of emojis with their meanings. Built using **React** + **Vite**, styled with custom CSS.
@@ -17,7 +12,9 @@ A fun React project that displays a list of emojis with their meanings. Built us
 
 ## Preview
 
-![App Preview](preview.png) <!-- (Optional: Add your screenshot if you want) -->
+Here’s how the app looks in action:
+
+![Emoji App Preview](preview.jpg)
 
 ## Technologies Used
 
@@ -27,7 +24,7 @@ A fun React project that displays a list of emojis with their meanings. Built us
 
 ## Project Structure
 
-emoji-app/ ├── node_modules/ ├── public/ ├── src/ │   ├── components/ │   │   ├── App.jsx │   │   ├── Entry.jsx │   │   └── emojipedia.js │   ├── index.css │   ├── index.jsx ├── .gitignore ├── package.json ├── README.md ├── vite.config.js └── index.html
+emoji-app/ ├── node_modules/ ├── public/ ├── src/ │   ├── components/ │   │   ├── App.jsx │   │   ├── Entry.jsx │   │   └── emojipedia.js │   ├── index.css │   ├── index.jsx ├── preview.jpg         <-- Image you added ├── .gitignore ├── package.json ├── README.md ├── vite.config.js └── index.html
 
 ## Setup Instructions
 
@@ -70,6 +67,5 @@ This project is open source and free to use.
 
 ---
 
-Let me know if you want to publish it to GitHub or deploy it online (e.g., using Netlify or Vercel)!
+Let me know if you’d like me to generate a GitHub `README.md` badge or help you deploy it!
 
-# react-emoji-app
